@@ -38,7 +38,7 @@ class MyApp extends StatelessWidget {
                 SizedBox(
                   height: 200,
                   width: 200,
-                  child: Image.network("https://w7.pngwing.com/pngs/537/866/png-transparent-flutter-hd-logo.png"),
+                  child: Image.network("https://logowik.com/content/uploads/images/flutter5786.jpg"),
                 ),
 
                 Column(
